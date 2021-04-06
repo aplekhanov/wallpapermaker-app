@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1532894165                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1561718371                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  :                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Create beautiful icons in a fun and easy way!
+app_description                           : Create custom wallpaper easily and personalize your iPhone background.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,8 +38,8 @@ features                                  :
     description                           : Personalize your phone and make it look different!
     fontawesome_icon_name                 : pen-square
 
-  - title                                 : Colors & Glyphs
-    description                           : Hundreds of beautiful colors and over 2000 system glyphs
+  - title                                 : Color Gradients
+    description                           : Hundreds of beautiful colors
     fontawesome_icon_name                 : brush
       
   - title                                 : Emoji & Text
