@@ -1,13 +1,8 @@
-# Custom Icon Maker
+# Custom Wallpaper Maker
 **Look different home screen.**
 
-The app lets you create beautiful icons in a relaxed and fun way!
+Wallpaper Maker helps you create your own unique wallpapers from your favorite photos, use image crop, generate beautiful gradients, and more.
 
-Generated icons are pixel perfect and can be used in the "Open App" action of shortcuts and lets you personalize your home screen like never before. 
-- Turn any emoji into an icon. 
-- Over 2000 system glyphs. 
-- Hundreds of beautiful colors.
-
-Icon Maker is the best companion for your favorite widget app. It lets you create beautiful icons in a fun and easy way! 
+Check how your wallpaper fits without leaving the app, and one-tap to save it to Photos. You will get a pixel-perfect image for the resolution of your device. It lets you personalize your phone or tablet the way you like.
 
 ![Malevich Icon Maker](/assets/landing.png)
