@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Customize Home Screen
-    description                           : Personalize your phone and make it look different!
+  - title                                 : Customize Lock & Home Screens
+    description                           : Beautify your screens with exclusive wallpapers and backgrounds
     fontawesome_icon_name                 : pen-square
 
   - title                                 : Color Gradients
-    description                           : Hundreds of beautiful colors
+    description                           : Hundreds of beautiful colors and fully customizable gradients 
     fontawesome_icon_name                 : brush
       
-  - title                                 : Emoji & Text
-    description                           : Turn any emoji or a word into an icon
-    fontawesome_icon_name                 : smile
+  - title                                 : Pixel Perfect Crop and Blur
+    description                           : Create a smooth blurred background easily using blur tool
+    fontawesome_icon_name                 : photo
 
 
 # Theme Settings
