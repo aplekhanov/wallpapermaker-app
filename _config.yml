@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Customize Lock & Home Screens
     description                           : Beautify your screens with exclusive wallpapers and backgrounds
-    fontawesome_icon_name                 : pen-square
+    fontawesome_icon_name                 : heart
 
   - title                                 : Color Gradients
     description                           : Hundreds of beautiful colors and fully customizable gradients 
@@ -44,7 +44,7 @@ features                                  :
       
   - title                                 : Pixel Perfect Crop and Blur
     description                           : Create a smooth blurred background easily using blur tool
-    fontawesome_icon_name                 : photo
+    fontawesome_icon_name                 : image
 
 
 # Theme Settings
